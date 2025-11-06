@@ -72,7 +72,7 @@ Our extensive change log is available [here](NEWS.md).
 ## Credits
 
 A massive thank you to the entire team for making the ScummVM project possible. See the credits [here](AUTHORS)!
-
+test
 -----
 
 > Good Luck and Happy Adventuring\!
